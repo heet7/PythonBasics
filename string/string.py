@@ -39,12 +39,12 @@ x[   :  : -1] # it will print the full string in backword direction
 # ==> str to int
 x = '12'
 x = int(x)
-x+1 # answer = 13
+print(x+1) # answer = 13
 #  we got error when string have integer with another data type...
 
 # small excercise you gona a dry run this 3 line of code that what will be the output ....
 x = 12 
 x = str(x)
-x+'1'
+print(x+'1')
 # output = ?
 
