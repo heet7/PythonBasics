@@ -1,1 +1,2 @@
-
+# check the given number is odd , even , and not odd and even...
+f = lambda l : [ [ i for i in l if i%2 == 0],[ i for i in l if i%2 == 1],[ i for i in l if (i%2 != 0) and (i%2 != 1)]]
