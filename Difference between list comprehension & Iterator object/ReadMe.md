@@ -6,3 +6,4 @@
 <h1>Iterator object</h1>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hear is not going anything in the memory. Because it is not create anything it's just remember everything...</h2>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( ) = remember only not store...</h2>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that is why it calls memory efficient</h2>
