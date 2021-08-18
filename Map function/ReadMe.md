@@ -1,1 +1,2 @@
-
+<h1> Set the logic through function on given list or object...</h1>
+it is called map...
