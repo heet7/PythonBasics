@@ -13,4 +13,8 @@ def power (x,y):
 # give input
 power(2,5)
 
+# in lambda function how can we print...?
+f = lambda x : "even" if x%2 == 0 else "odd" x%2 == 1
+f(5) # it will give you answer as odd because it is odd number...:)
+
   
